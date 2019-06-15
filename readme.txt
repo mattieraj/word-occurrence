@@ -1,5 +1,6 @@
 word-occurrence
-Parses through file and records frequencies of occurrences of each word
+*Parses through file and records frequencies of occurrences of each word
+*junit testing
 
 Usage:
 <filename> -u -w <word to be searched in file>
